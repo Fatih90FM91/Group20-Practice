@@ -7,5 +7,6 @@ public class Main {
         //watching more movie in bedroom
 
         //movie on the phone 10 minutes
+        //movie on the phone 20 minutes
     }
 }
